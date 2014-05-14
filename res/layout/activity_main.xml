@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.otra.app.MainActivity"
+    tools:ignore="MergeRootFrame" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+	    <Button
+	        android:id="@+id/botonID"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginRight="32dp"
+	        android:layout_marginTop="19dp"
+	        android:text="@string/orar" />
+	
+	   	<ScrollView
+	            android:id="@+id/scrollView1"
+	            android:paddingTop="80dp"
+	            android:paddingLeft="5dp"
+	            android:paddingRight="5dp"
+	            android:paddingBottom="5dp"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent" >
+	
+	            <LinearLayout
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:orientation="vertical" >
+	        
+	
+	                <TextView
+	                    android:id="@+id/textoID"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:text="@string/empezar"
+	                    android:textAppearance="?android:attr/textAppearanceMedium" />
+	                
+	             </LinearLayout>
+	       </ScrollView>
+	
+      </LinearLayout>
+</FrameLayout>

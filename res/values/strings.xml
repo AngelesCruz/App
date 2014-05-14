@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App</string>
+    <string name="action_settings">Settings</string>
+    <string name="orar">Orar</string>
+    <string name="empezar">Bendigamos los Alimentos</string>
+    
+    <string-array name="bendiciones" >
+        <item >Bendícenos Señor, bendice estos alimentos que por tu bondad vamos a recibir,bendice las manos que los prepararon dale pan al que tiene hambre y hambre de ti al que tiene pan. Amén</item>
+        <item >Bendícenos Señor y Bendice estos alimentos que vamos a tomar. Bendice a quienes lo han preparado y da pan a los que no lo tienen.Por Jesucristo nuestro Señor.Amén.</item>
+		<item >Bendito seas Señor, Dios del universo, por estos alimentos, fruto de la tierra y del trabajo del hombre, que hemos recibido de tu bondad y ahora vamos a compartir. Te pedimos que te acuerdes de lo que no tienen pan. Tu que vives y reinas por los siglos de los siglos. Amén.</item>    
+    	<item >Bendice Señor y bendice estos alimentos fruto de tu generosidad y de nuestro trabajo. Por Jesucristo Nuestro Señor. Amén</item>
+    	<item >Bendice Señor, los alimentos que vamos a tomar y haz que nos aprovechen para ocuparnos en tu Santo servicio. Que el Rey de la eterna gloria nos haga partícipes del banquete celestial. Amén</item>
+    	<item >Bendícenos Señor, a nosotros y bendice estos alimentos que vamos a recibir de tus manos generosas y providentes. Por Jesucristo nuestro Señor. Amén.</item>
+    </string-array>
+
+</resources>
